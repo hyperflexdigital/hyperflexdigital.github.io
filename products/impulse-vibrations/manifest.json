@@ -1,0 +1,162 @@
+{
+  "homepages": [],
+  "source_base_path": "/Users/ararat.ispiroglu/Desktop/Ararat/Projects/Self/impulse-vibrations/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ImpulseVibrations.HapticFeedbackConstants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ImpulseVibrations.HapticFeedbackConstants.html",
+          "hash": "KOUHedMoMyy9lTWGv0IIlw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ImpulseVibrations.ImpactTypeFeedback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ImpulseVibrations.ImpactTypeFeedback.html",
+          "hash": "MnMEbHGqT2m6aAd2TXtAcg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ImpulseVibrations.NotificationTypeFeedback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ImpulseVibrations.NotificationTypeFeedback.html",
+          "hash": "jx/ww5IsPhYukNfmNQs+sA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ImpulseVibrations.SelectionTypeFeedback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ImpulseVibrations.SelectionTypeFeedback.html",
+          "hash": "c7wH3R9f1wmYyrdq6MQ+/w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ImpulseVibrations.Vibrator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ImpulseVibrations.Vibrator.html",
+          "hash": "ciIT7qcCD+wkN6YJ03qreg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ImpulseVibrations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ImpulseVibrations.html",
+          "hash": "s3nBudCsZ/LRNUEXEJXCpg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "Rcv7QmyZPf5DWPDkJLJ8/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "rARCfeKvbRS5GMYH+cEXQg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "uP1MDVVOZ7+H3uIZYzMFKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 1,
+          "skipped_file_count": 1
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 6
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
