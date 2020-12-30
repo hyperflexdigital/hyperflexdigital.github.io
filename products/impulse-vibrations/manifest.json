@@ -9,10 +9,10 @@
       "output": {
         ".html": {
           "relative_path": "api/ImpulseVibrations.HapticFeedbackConstants.html",
-          "hash": "KOUHedMoMyy9lTWGv0IIlw=="
+          "hash": "V0U4TTPt3TxcmYPHIH7Flw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -21,10 +21,10 @@
       "output": {
         ".html": {
           "relative_path": "api/ImpulseVibrations.ImpactTypeFeedback.html",
-          "hash": "MnMEbHGqT2m6aAd2TXtAcg=="
+          "hash": "6PIreJ5hBSraKdQ87I+h7w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -33,10 +33,10 @@
       "output": {
         ".html": {
           "relative_path": "api/ImpulseVibrations.NotificationTypeFeedback.html",
-          "hash": "jx/ww5IsPhYukNfmNQs+sA=="
+          "hash": "iLFyFJmBdfA+3kw8Assejw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -45,10 +45,10 @@
       "output": {
         ".html": {
           "relative_path": "api/ImpulseVibrations.SelectionTypeFeedback.html",
-          "hash": "c7wH3R9f1wmYyrdq6MQ+/w=="
+          "hash": "apM1dYjhc7z6IYfvoMJ6uQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -57,10 +57,10 @@
       "output": {
         ".html": {
           "relative_path": "api/ImpulseVibrations.Vibrator.html",
-          "hash": "ciIT7qcCD+wkN6YJ03qreg=="
+          "hash": "4g7K/5MOtsMGlGRTZnbzEw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -72,7 +72,7 @@
           "hash": "s3nBudCsZ/LRNUEXEJXCpg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "x8hIMbmK+Vh0YKSfIzWVxw=="
+          "hash": "WVri2zeVVtl42CBDXRtDsw=="
         }
       },
       "is_incremental": false,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "uP1MDVVOZ7+H3uIZYzMFKQ=="
+          "hash": "XHoKhNBp6MBTKhlN18DpFw=="
         }
       },
       "is_incremental": false,
@@ -115,23 +115,25 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because config changed.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ConfigChanged"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 1,
           "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 6,
-          "skipped_file_count": 6
+          "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
